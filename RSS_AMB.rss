@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="2.0">
+    <channel>
+        <title>Practica RSS</title>
+        <link>https://github.com/alvaromejias/1-DAW</link>
+        <description>Ejemplo de practica con RSS</description>
+        <category>Logros/IA</category>
+        <copyright>Alvaro Mejias - CC BYSA</copyright>
+        <language>es-es</language>
+        <lastBuildDate>Thu, 3 Mar 2022 13:00:00 +0200</lastBuildDate>
+        <webMaster>a20mebeal@iesgrancapitan.org (Alvaro Mejias)</webMaster>
+        <skipDays>
+            <day>Saturday</day>
+            <day>Sunday</day>
+        </skipDays>
+        <skipHours>
+            <hour>0</hour>
+            <hour>1</hour>
+            <hour>2</hour>
+            <hour>3</hour>
+            <hour>4</hour>
+            <hour>5</hour>
+        </skipHours>
+        <image>
+            <url>https://github.com/alvaromejias/1-DAW/blob/main/ia.jpg</url>
+            <title>Practica RSS</title>
+            <link>https://github.com/alvaromejias/1-DAW</link>
+        </image>
+        <item>
+            <author>a20mebeal@iesgrancapitan.org (Alvaro Mejias)</author>
+            <description>Avances en IA</description>
+            <link>https://www.rtve.es/play/audios/a-golpe-de-bit/golpe-bit-granada-toca-cielo-ia-inteligencia-artificial-02-03-22/6405141/</link>
+            <title>Avances/IA</title>
+            <pubDate>Wed, 2 Mar 2022 20:48:00 +0200</pubDate>
+            <enclosure url="https://img2.rtve.es/a/6405141/?h=320" length="28013" type="image/jpg"/>
+        </item>
+        <item>
+            <author>a20mebeal@iesgrancapitan.org (Alvaro Mejias)</author>
+            <description>Gafas inteligentes para problemas de vision</description>
+            <link>https://computerhoy.com/noticias/tecnologia/padres-espanoles-crean-unas-gafas-inteligentes-ia-ayudar-hijo-ver-1021289</link>
+            <title>IA/vision</title>
+            <pubDate>Wed, 2 Mar 2022 17:15:00 +0200</pubDate>
+            <enclosure url="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2022/03/padres-espanoles-crean-unas-gafas-inteligentes-ia-ayudar-hijo-ver-2632681.jpg?itok=3885zz8n" length="42198" type="image/jpg"/>
+        </item>
+        <item>
+            <author>a20mebeal@iesgrancapitan.org (Alvaro Mejias)</author>
+            <description>IA detecta elusion de sanciones</description>
+            <link>https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-tecnologia-ia-thetaray-permite-identificar-intentos-ilicitos-eludir-sanciones-economicas-20220302221214.html</link>
+            <title>IA/ThetaRay</title>
+            <pubDate>Wed, 2 Mar 2022 22:12:00 +0200</pubDate>
+            <enclosure url="https://www.thetaray.com/wp-content/uploads/2019/11/logo.png" length="45864" type="image/jpg"/>
+        </item>
+        <item>
+            <author>a20mebeal@iesgrancapitan.org (Alvaro Mejias)</author>
+            <description>Los gatos y los portatiles</description>
+            <link>https://www.eleconomista.es/mercados-cotizaciones/noticias/11644112/03/22/El-espanol-al-que-llamo-Microsoft-para-disenar-el-futuro-de-la-IA.html</link>
+            <title>IA/Espana</title>
+            <pubDate>Wed, 2 Mar 2022 07:00:00 +0200</pubDate>
+            <enclosure url="https://s03.s3c.es/imag/_v0/770x420/6/3/d/hernandez-orallo-valencia-cambridge-inteligencia-artificial-770x420.jpg" length="102867" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
